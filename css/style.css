@@ -432,6 +432,14 @@ footer {
         font-size: 1.4rem;
         font-weight: 600;
     }
+
+    .projetos-layer h4 {
+        font-size: 19px;
+    }
+
+    .projetos-layer p {
+        font-size: 13px;
+    }
 }
 
 /* Small (sm): Smartphone (landscape) */
